@@ -1,0 +1,14 @@
+| Token           | Action | Urgence | Politesse | Sécurité |
+| --------------- | ------ | ------- | --------- | -------- |
+| Merci           | 1      | 0       | 1         | 0        |
+| Rapidement      | 0      | 1       | 1         | 0        |
+| S’il vous plaît | 0      | 0       | 1         | 0        |
+| Arrêtez         | 1      | 1       | 0         | 1        |
+| Immédiatement   | 0      | 1       | 0         | 0        |
+| Vérifiez        | 1      | 0       | 0         | 1        |
+| Attention       | 0      | 1       | 0         | 1        |
+| Envoyez         | 1      | 0       | 0         | 0        |
+| Priorité        | 0      | 1       | 0         | 0        |
+| Confidentiel    | 0      | 0       | 0         | 1        |
+| Urgent          | 0      | 1       | 0         | 0        |
+| Bien sûr        | 0      | 0       | 1         | 0        |
