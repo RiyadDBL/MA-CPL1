@@ -11,9 +11,9 @@ def tokenize_whitespace(text):
     """
     TODO : retourner une liste de tokens découpés par espaces.
     """
-    # Indice : utiliser text.split()
-    pass
-
+    
+    return text.split()
+    # permet de diviser le résultat obtenu par les espaces
 
 # -----------------------------------------------------------
 # 2) MODE 2 : découpe avec regex
