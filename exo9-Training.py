@@ -78,7 +78,7 @@ def main():
     # -------------------------------------------------
     # 2) Lire CSV ; et vérifier colonnes
     # -------------------------------------------------
-    df = pd.read_csv(args.csv, sep=";")
+    df = pd.read_csv(args.csv, sep=";", encoding="latin1")
     expected_cols = {"mail", "label"}
     if not expected_cols.issubset(set(df.columns)):
         raise ValueError(
