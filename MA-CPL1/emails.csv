@@ -1,0 +1,7 @@
+id,email_text,label_attendu
+1,"Pouvez-vous me rappeler ?",Oui
+2,"Merci pour votre aide.",Non
+3,"Est-ce possible d'avoir le document ?",Oui
+4,"Ceci est juste une information.",Non
+5,"Pouvez-vous confirmer votre présence ?",Oui
+6,"Merci de votre compréhension.",Non
